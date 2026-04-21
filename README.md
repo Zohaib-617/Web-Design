@@ -1,1 +1,1 @@
-A collection of web design projects that include UI clones of popular websites. This repository focuses on building clean layouts and making designs responsive so they work well on all screen sizes. It shows practical frontend skills using HTML and CSS
+A collection of web design projects that include UI clones of popular websites. This repository focuses on building clean layouts and making designs responsive so they work well on all screen sizes. It shows practical frontend skills using HTML and CSS and working with tailwind css in react
